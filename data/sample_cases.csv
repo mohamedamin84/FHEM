@@ -1,4 +1,0 @@
-case_id,topic,expression,point,left_limit,right_limit,student_claim,expected_category,review_status
-SYN001,removable_discontinuity,(x**2 - 1)/(x - 1),1,2,2,limit_exists,needs_more_context,synthetic_unreviewed
-SYN002,vertical_asymptote,1/x,0,-oo,oo,limit_exists,one_sided_limits,synthetic_unreviewed
-SYN003,indeterminate_form,(x**2 - 1)/(x - 1),1,2,2,zero_over_zero,indeterminate_form,synthetic_unreviewed
